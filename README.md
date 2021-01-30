@@ -40,4 +40,3 @@ Example of frame0 which is the first frame before and after emotions detection
 
 ### References
 [Sefik Ilkin Serengil](http://https://github.com/serengil/deepface#face-recognition.com
-[GeeksforGeeks](https://www.geeksforgeeks.org/extract-images-from-video-in-python/)
