@@ -39,4 +39,5 @@ Example of frame0 which is the first frame before and after emotions detection
 ![](https://github.com/alvinlim99/FYP-Microexpression-Recognition/blob/main/Analyzed/analyzed_0.jpg)
 
 ### References
-[Sefik Ilkin Serengil](http://https://github.com/serengil/deepface#face-recognition.com
+ [Sefik Ilkin Serengil](http://https://github.com/serengil/deepface#face-recognition.com). 
+ [GeeksforGeeks](https://www.geeksforgeeks.org/extract-images-from-video-in-python/). 
