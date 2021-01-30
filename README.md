@@ -4,7 +4,7 @@ Deepface is a lightweight face recognition and facial attribute analysis framewo
 __Process of micro-expressions recognition:__
 1. Extract every frames of a video into image format.
 1. Detect emotion on each frame using DeepFace framework.
-1. Every emotions detected will be saved in a folder.
+1. Every detected emotions will be saved in a folder.
 
 
 
@@ -19,17 +19,19 @@ pip install deepface
 ```python
 python fyp.py -h
 ```
-
 This command will display all other commands that available in this python script.
 
-### Extract Frame From Video
+### Frames Extraction
 ```python
 python fyp.py -r video.mp4
 ```
 This command will extract every frames of a video and save into "Extracted Frame" folder. 
 
-
-
+### Emotion Detection
+```python
+python fyp.py -detect
+```
+This command will detect emotions on every frames and save it into "Analyzed" Folder
 
 #### Sample Output
 ![](https://github.com/alvinlim99/FYP-Microexpression-Recognition/blob/main/icon/help.JPG)
