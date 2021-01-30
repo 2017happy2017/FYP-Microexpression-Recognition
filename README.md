@@ -7,7 +7,7 @@ __Process of micro-expressions recognition__
 1. Every emotions detected will be saved in a folder.
 
 
-![](https://github.com/alvinlim99/FYP-Microexpression-Recognition/blob/main/icon/help.JPG)
+
 
 
 
@@ -21,5 +21,7 @@ pip install deepface
 ```python
 python fyp.py -h
 ```
+![](https://github.com/alvinlim99/FYP-Microexpression-Recognition/blob/main/icon/help.JPG)
 This command will display all other commands that available in this python script.
+
 ### Extract Frame From Video
