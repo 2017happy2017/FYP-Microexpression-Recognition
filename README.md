@@ -40,5 +40,5 @@ Example of frame0 which is the first frame before and after emotions detection
 
 ### Acknowledgments
 Implementations use the source code from following repositories and links:
-* [Sefik Ilkin Serengil](http://https://github.com/serengil/deepface#face-recognition.com). 
+* [Sefik Ilkin Serengil](https://github.com/serengil/deepface). 
 * [GeeksforGeeks](https://www.geeksforgeeks.org/extract-images-from-video-in-python/)
