@@ -1,6 +1,11 @@
 # FYP-Microexpression-Recognition
-FYP repository
 
 
+
+
+
+```python
+pip install deepface
+```
 
 Framework Source: https://github.com/serengil/deepface
