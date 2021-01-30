@@ -7,7 +7,7 @@ __Process of micro-expressions recognition__
 1. Every emotions detected will be saved in a folder.
 
 
-![GitHub Logo](/icon/help.jpg)
+![icon](help.jpg)
 
 
 
