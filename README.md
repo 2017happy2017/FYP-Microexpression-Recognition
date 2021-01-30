@@ -9,8 +9,6 @@ __Process of micro-expressions recognition:__
 
 
 
-
-
 ### DeepFace Framework Installation
 
 ```python
@@ -21,7 +19,6 @@ pip install deepface
 ```python
 python fyp.py -h
 ```
-![](https://github.com/alvinlim99/FYP-Microexpression-Recognition/blob/main/icon/help.JPG)
 
 This command will display all other commands that available in this python script.
 
@@ -30,3 +27,9 @@ This command will display all other commands that available in this python scrip
 python fyp.py -r video.mp4
 ```
 This command will extract every frames of a video and save into "Extracted Frame" folder. 
+
+
+
+
+#### Sample Output
+![](https://github.com/alvinlim99/FYP-Microexpression-Recognition/blob/main/icon/help.JPG)
