@@ -22,6 +22,7 @@ pip install deepface
 python fyp.py -h
 ```
 ![](https://github.com/alvinlim99/FYP-Microexpression-Recognition/blob/main/icon/help.JPG)
+
 This command will display all other commands that available in this python script.
 
 ### Extract Frame From Video
