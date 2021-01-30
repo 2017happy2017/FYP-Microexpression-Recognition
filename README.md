@@ -34,4 +34,5 @@ python fyp.py -detect
 This command will detect emotions on every frames and save it into "Analyzed" Folder
 
 #### Sample Output
-![](https://github.com/alvinlim99/FYP-Microexpression-Recognition/blob/main/icon/help.JPG)
+![GitHub Logo](https://github.com/alvinlim99/FYP-Microexpression-Recognition/blob/main/icon/help.JPG)
+![]()
