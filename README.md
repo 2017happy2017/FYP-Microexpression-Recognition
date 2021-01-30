@@ -7,7 +7,7 @@ __Process of micro-expressions recognition__
 1. Every emotions detected will be saved in a folder.
 
 
-![icon](help.jpg)
+![](https://github.com/alvinlim99/FYP-Microexpression-Recognition/blob/main/icon/help.JPG)
 
 
 
