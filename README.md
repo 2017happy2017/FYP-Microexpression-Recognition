@@ -6,7 +6,7 @@ __Process of micro-expressions recognition:__
 1. Detect emotion on each frame using DeepFace framework.
 1. Every detected emotions will be saved in a folder.
 
-__#There's no function to automatically detect microexpression, required manully look throught all the detect emotion to find any micro-expressions__
+__#There's no function to automatically detect micro-expressions, required manually look throught all the detect emotions images to find any micro-expressions#__
 
 
 
